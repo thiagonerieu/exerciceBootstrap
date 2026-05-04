@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I_e_l" format="2">
+  <advance width="662"/>
+  <unicode hex="F2720"/>
+  <outline>
+    <component base="I"/>
+    <component base="l" xOffset="494"/>
+    <contour>
+      <point x="587" y="228.835" type="move"/>
+      <point x="587" y="128.459"/>
+      <point x="492.634" y="-10"/>
+      <point x="373" y="-10" type="curve" smooth="yes"/>
+      <point x="247.4" y="-10"/>
+      <point x="171" y="59"/>
+      <point x="159" y="174" type="curve" smooth="yes"/>
+      <point x="157.016" y="193.345"/>
+      <point x="178.528" y="204.755"/>
+      <point x="212.447" y="213.661" type="curve" smooth="yes"/>
+      <point x="315.291" y="240.666"/>
+      <point x="532.192" y="244.65"/>
+      <point x="554" y="377" type="curve" smooth="yes"/>
+      <point x="568" y="465"/>
+      <point x="474" y="531"/>
+      <point x="373" y="514" type="curve" smooth="yes"/>
+      <point x="295" y="500"/>
+      <point x="231" y="467"/>
+      <point x="184" y="376" type="curve" smooth="yes"/>
+      <point x="132" y="275"/>
+      <point x="153" y="139"/>
+      <point x="188" y="79" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>l</string>
+  <key>com.fontlab.recipe</key>
+  <string>I_e_l</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="328"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="74" y="780" type="curve" smooth="yes"/>
+      <point x="106.679" y="780"/>
+      <point x="133" y="740.204"/>
+      <point x="133" y="679" type="curve" smooth="yes"/>
+      <point x="133" y="619.353"/>
+      <point x="107.006" y="578"/>
+      <point x="74" y="578" type="curve" smooth="yes"/>
+      <point x="42.5452" y="578"/>
+      <point x="15" y="618.42"/>
+      <point x="15" y="679" type="curve" smooth="yes"/>
+      <point x="15" y="741.128"/>
+      <point x="42.8746" y="780"/>
+    </contour>
+    <contour>
+      <point x="74" y="680" type="line"/>
+      <point x="71.4047" y="680"/>
+      <point x="69.5989" y="679.376"/>
+      <point x="68.9226" y="679.035" type="curve"/>
+      <point x="69.4782" y="678.746"/>
+      <point x="71.188" y="678"/>
+      <point x="74" y="678" type="curve" smooth="yes"/>
+      <point x="76.8042" y="678"/>
+      <point x="78.7017" y="678.667"/>
+      <point x="79.4194" y="679.034" type="curve"/>
+      <point x="79.3387" y="679.074"/>
+      <point x="78.4662" y="679.528"/>
+      <point x="76.5613" y="679.815" type="curve"/>
+    </contour>
+    <contour>
+      <point x="254" y="780" type="curve" smooth="yes"/>
+      <point x="286.679" y="780"/>
+      <point x="313" y="740.204"/>
+      <point x="313" y="679" type="curve" smooth="yes"/>
+      <point x="313" y="619.353"/>
+      <point x="287.006" y="578"/>
+      <point x="254" y="578" type="curve" smooth="yes"/>
+      <point x="222.545" y="578"/>
+      <point x="195" y="618.42"/>
+      <point x="195" y="679" type="curve" smooth="yes"/>
+      <point x="195" y="741.128"/>
+      <point x="222.875" y="780"/>
+    </contour>
+    <contour>
+      <point x="254" y="680" type="line"/>
+      <point x="251.405" y="680"/>
+      <point x="249.599" y="679.376"/>
+      <point x="248.923" y="679.035" type="curve"/>
+      <point x="249.478" y="678.746"/>
+      <point x="251.188" y="678"/>
+      <point x="254" y="678" type="curve" smooth="yes"/>
+      <point x="256.804" y="678"/>
+      <point x="258.702" y="678.667"/>
+      <point x="259.419" y="679.034" type="curve"/>
+      <point x="259.339" y="679.074"/>
+      <point x="258.466" y="679.528"/>
+      <point x="256.561" y="679.815" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

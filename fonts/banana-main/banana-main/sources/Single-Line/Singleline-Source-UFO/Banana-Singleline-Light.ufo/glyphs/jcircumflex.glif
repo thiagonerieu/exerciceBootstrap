@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+  <advance width="246"/>
+  <unicode hex="0135"/>
+  <outline>
+    <component base="circumflex" xOffset="-82"/>
+    <contour>
+      <point x="-319" y="-266" type="move"/>
+      <point x="-297" y="-174"/>
+      <point x="-209" y="-116"/>
+      <point x="-116" y="-131" type="curve" smooth="yes"/>
+      <point x="-4" y="-150"/>
+      <point x="71" y="-277"/>
+      <point x="188" y="-266" type="curve" smooth="yes"/>
+      <point x="279" y="-257"/>
+      <point x="333" y="-166"/>
+      <point x="290" y="-97" type="curve" smooth="yes"/>
+      <point x="272.299" y="-68.6786"/>
+      <point x="237.717" y="-52.6343"/>
+      <point x="207.857" y="-34.3794" type="curve" smooth="yes"/>
+      <point x="178.674" y="-16.5388"/>
+      <point x="154" y="3.4132"/>
+      <point x="154" y="39" type="curve" smooth="yes"/>
+      <point x="156" y="451" type="line" smooth="yes"/>
+      <point x="156" y="483"/>
+      <point x="132" y="509"/>
+      <point x="105" y="502" type="curve" smooth="yes"/>
+      <point x="83" y="496"/>
+      <point x="74" y="469"/>
+      <point x="88" y="451" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>j+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

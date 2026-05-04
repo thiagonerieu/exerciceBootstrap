@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+  <advance width="192"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="33" y="454" type="move"/>
+      <point x="27.9258" y="466.178"/>
+      <point x="30.0615" y="478.781"/>
+      <point x="36.7933" y="488.288" type="curve" smooth="yes"/>
+      <point x="43.3281" y="497.517"/>
+      <point x="54.1941" y="503.828"/>
+      <point x="67" y="504" type="curve" smooth="yes"/>
+      <point x="79.3861" y="504.167"/>
+      <point x="89.6815" y="498.476"/>
+      <point x="96.2205" y="489.947" type="curve" smooth="yes"/>
+      <point x="103.908" y="479.92"/>
+      <point x="106.404" y="466.969"/>
+      <point x="101" y="454" type="curve"/>
+      <point x="101" y="47" type="line"/>
+      <point x="96.0052" y="35.0126"/>
+      <point x="97.9958" y="22.5262"/>
+      <point x="104.48" y="13.0299" type="curve" smooth="yes"/>
+      <point x="110.977" y="3.51362"/>
+      <point x="121.986" y="-3"/>
+      <point x="135" y="-3" type="curve" smooth="yes"/>
+      <point x="148.159" y="-3"/>
+      <point x="159.268" y="3.65956"/>
+      <point x="165.736" y="13.349" type="curve" smooth="yes"/>
+      <point x="172.048" y="22.8049"/>
+      <point x="173.939" y="35.1464"/>
+      <point x="169" y="47" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="101" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i%</string>
+  </dict>
+  </lib>
+</glyph>

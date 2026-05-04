@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <advance width="593"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="64.6495" y="-40.5163" type="line" smooth="yes"/>
+      <point x="53.4265" y="-56.7479"/>
+      <point x="37.8577" y="-51.745"/>
+      <point x="29.7419" y="-29.299" type="curve" smooth="yes"/>
+      <point x="21.626" y="-6.85295"/>
+      <point x="24.1275" y="24.2847"/>
+      <point x="35.3506" y="40.5163" type="curve" smooth="yes"/>
+      <point x="519.351" y="740.516" type="line" smooth="yes"/>
+      <point x="530.574" y="756.748"/>
+      <point x="546.142" y="751.745"/>
+      <point x="554.258" y="729.299" type="curve" smooth="yes"/>
+      <point x="562.374" y="706.853"/>
+      <point x="559.873" y="675.715"/>
+      <point x="548.649" y="659.484" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

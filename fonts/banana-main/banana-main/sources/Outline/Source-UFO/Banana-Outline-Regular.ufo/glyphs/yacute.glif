@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="2">
+  <advance width="510"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <component base="y" xOffset="20"/>
+    <component base="acute" xOffset="155"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

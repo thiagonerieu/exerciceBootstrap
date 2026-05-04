@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_egrave" format="2">
+  <advance width="774"/>
+  <unicode hex="F4920"/>
+  <outline>
+    <component base="t_e"/>
+    <component base="grave" xOffset="388.92" yOffset="259"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>è</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

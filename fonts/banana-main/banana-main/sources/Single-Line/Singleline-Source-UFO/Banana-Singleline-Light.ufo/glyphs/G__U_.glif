@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G_U" format="2">
+  <advance width="1094"/>
+  <unicode hex="F2210"/>
+  <outline>
+    <component base="G"/>
+    <contour>
+      <point x="548.035" y="127.068" type="move"/>
+      <point x="599.745" y="22.6137"/>
+      <point x="682.481" y="-28.0621"/>
+      <point x="801.414" y="-16.6859" type="curve" smooth="yes"/>
+      <point x="897.594" y="-8.41228"/>
+      <point x="967.92" y="41.2293"/>
+      <point x="1010.32" y="127.068" type="curve" smooth="yes"/>
+      <point x="1095.13" y="296.676"/>
+      <point x="967.92" y="476.627"/>
+      <point x="967.92" y="659.681" type="curve" smooth="yes"/>
+      <point x="967.92" y="673.583"/>
+      <point x="973.172" y="686.378"/>
+      <point x="981.389" y="694.638" type="curve" smooth="yes"/>
+      <point x="989.067" y="702.356"/>
+      <point x="999.333" y="706.114"/>
+      <point x="1010.32" y="703.117" type="curve" smooth="yes"/>
+      <point x="1016.97" y="701.367"/>
+      <point x="1022.2" y="697.603"/>
+      <point x="1025.73" y="692.787" type="curve" smooth="yes"/>
+      <point x="1032.62" y="683.374"/>
+      <point x="1033.01" y="669.944"/>
+      <point x="1024.8" y="659.681" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>G</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>U</string>
+  <key>com.fontlab.recipe</key>
+  <string>G_U</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

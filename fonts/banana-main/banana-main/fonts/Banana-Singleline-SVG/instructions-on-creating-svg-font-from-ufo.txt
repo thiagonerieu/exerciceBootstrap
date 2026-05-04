@@ -1,0 +1,37 @@
+
+[ENGLISH]
+
+Banana SVG file was created following these instructions, found in the Relief SingleLine font documentation
+https://github.com/isdat-type/Relief-SingleLine/tree/218c4d5b8de0d540cb1995ec347b2ce10ac88341
+https://github.com/isdat-type/Relief-SingleLine/tree/main
+
+
+Open a skeletal UFO file in [FontForge](https://fontforge.org/)
+• File > Generate fonts > Select SVG font format
+• Rename your font as simple as possible to have a short path-name
+when using Hershey Text Extension (important: no space in the name)
+• Generate
+• Open the SVG file in a text editor (such as Sublime Text) and run
+two find and replace actions:
+	find z" / replace by " /
+	find zM replace by M
+• Save as a new SVG file.
+
+
+
+[FRANÇAIS]
+
+The fichier SVG de la Banana SVG a été créé en suivant ces instructions, trouvées dans la documentation de la Relief SingleLine : 
+https://github.com/isdat-type/Relief-SingleLine/tree/218c4d5b8de0d540cb1995ec347b2ce10ac88341
+https://github.com/isdat-type/Relief-SingleLine/tree/main
+
+
+• Télécharger et/ou Ouvrir l'application [FontForge] (https://fontforge.org/)
+• Y ouvrir votre fonte "squelette" au format .ufo
+• Fichier > Générer et sélectionner le format font SVG
+• Renommer votre fonte avec un nom simple, sans espace ou caractère spécial (excepté les tirets) pour avoir un nom court pour le chemin vers la fonte Hershey.
+• Générer
+• Ouvrir le fichier SVG dans un éditeur de texte (sublime texte, VS code…) et appliquer ces deux actions de rechercher/remplacer : 
+	remplacer z" / par " /
+	remplacer zM par M
+• Sauver en tant que nouveau fichier SVG.

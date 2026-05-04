@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U_L" format="2">
+  <advance width="1056"/>
+  <unicode hex="F5050"/>
+  <outline>
+    <component base="L" xOffset="430"/>
+    <contour>
+      <point x="63" y="656" type="move"/>
+      <point x="51" y="676"/>
+      <point x="68" y="702"/>
+      <point x="92" y="699" type="curve" smooth="yes"/>
+      <point x="111" y="697"/>
+      <point x="121" y="676"/>
+      <point x="121" y="656" type="curve" smooth="yes"/>
+      <point x="121" y="472"/>
+      <point x="8" y="292"/>
+      <point x="92" y="123" type="curve" smooth="yes"/>
+      <point x="144" y="18"/>
+      <point x="226" y="-32"/>
+      <point x="345" y="-21" type="curve" smooth="yes"/>
+      <point x="397" y="-16"/>
+      <point x="442" y="0"/>
+      <point x="479" y="28" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

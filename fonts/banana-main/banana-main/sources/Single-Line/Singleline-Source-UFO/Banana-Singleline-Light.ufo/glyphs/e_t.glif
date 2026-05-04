@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e_t" format="2">
+  <advance width="762"/>
+  <unicode hex="F1960"/>
+  <outline>
+    <component base="e"/>
+    <contour>
+      <point x="448" y="676" type="move"/>
+      <point x="448" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="380.279" y="493" type="move"/>
+      <point x="692" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="161" type="move"/>
+      <point x="429" y="74"/>
+      <point x="494" y="-10"/>
+      <point x="583" y="-13" type="curve" smooth="yes"/>
+      <point x="648" y="-15"/>
+      <point x="705" y="27"/>
+      <point x="721" y="91" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>t</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

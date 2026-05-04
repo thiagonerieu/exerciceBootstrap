@@ -1,0 +1,34 @@
+HOW TO USE BANANA SINGLELINE (OR ANY OTHER .SVG FONT) WITH THE INKSCAPE 
+
+- Install the .otf font on your Font Book
+- Install Inkscape if you don't already have it (it's free!) 
+- Go to Applications / Inkscape [right clic] show package contents / Contents / resources / share /inkscape / extensions / svg-fonts 
+- Paste banana-single-line.svg (or any other font) into the folder < svg_fonts > 
+- Restart Inkscape if the application was running 
+- On your document, compose your text in Banana Outline 
+- Once you are satisfied, go to Extensions / Text / Hershey text
+- In ‘font type’, select < Other (data below) >. 
+- In Name/Path, enter < banana-single-line > (or the name of the svg font file without its extension ".svg") 
+- Apply ⟶ Your text is now single-line and can be plotted, engraved, CNCed, etc.
+
+
+Unfortunately, the Hershey extension does not take ligatures and alternates into account, which means that if you have added a post-binary glyph ‘ri’ via the ‘r..i’ keystroke sequence, the svg result will revert to ‘r..i’.
+You can, however, add alt glyphs manually from the glyph library and they are then supposed to turn into a proper svg drawing when added in this way.
+
+
+COMMENT UTILISER BANANA SINGLELINE (OU TOUT AUTRE FONTE .SVG)
+
+- Installer la fonte .otf sur votre Livret des Polices 
+- Installez Inkscape si vous ne l'avez pas déjà (c'est gratuit !) 
+- Allez dans Applications / Inkscape [clic droit] afficher le contenu du paquet / Contents / resources / share / inkscape / extensions / svg-fonts 
+- Collez banana-single-line.svg (ou une autre fonte) dans < svg_fonts > 
+- Redémarrez Inkscape si l'application était en route 
+- Sur votre document, composez votre texte en Banana Outline 
+- Une fois satisfait·e, faites le chemin Extensions / Texte / Texte Hershey
+- Dans « type de fonte », sélectionnez < Autre (données ci-dessous) > 
+- Dans Nom/chemin, inscrivez < banana-single-line > (ou le nom du fichier de fonte svg en enlevant le nom de l'extension ".svg") 
+- Appliquez ⟶ Votre texte est désormais en single-line et peut-être plotté, gravé, CNCé…
+
+
+Malheureusement, l’extension Hershey ne prend pas en compte les ligatures et les alternates, ce qui signifie que si vous avez ajouté un glyphe post-binaire « ri » via la suite de touche « r..i », le résultat svg redeviendra « r..i ».
+Vous pouvez cependant ajouter des glyphes alternatifs manuellement à partir de la bibliothèque de glyphes et ils sont alors supposés se transformer correctement en dessin svg lorsqu'ils sont ajoutés de cette manière.

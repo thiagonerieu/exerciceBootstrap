@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>liga_rlig</key>
+  <array>
+    <string>A</string>
+    <string>B</string>
+    <string>C</string>
+    <string>D</string>
+    <string>E</string>
+    <string>F</string>
+    <string>G</string>
+    <string>H</string>
+    <string>I</string>
+    <string>J</string>
+    <string>K</string>
+    <string>L</string>
+    <string>M</string>
+    <string>N</string>
+    <string>O</string>
+    <string>P</string>
+    <string>Q</string>
+    <string>R</string>
+    <string>S</string>
+    <string>T</string>
+    <string>U</string>
+    <string>V</string>
+    <string>W</string>
+    <string>X</string>
+    <string>Y</string>
+    <string>Z</string>
+    <string>Adieresis</string>
+    <string>Eacute</string>
+    <string>Odieresis</string>
+    <string>Udieresis</string>
+    <string>Ocircumflex</string>
+    <string>Ccedilla</string>
+    <string>Agrave</string>
+    <string>OE</string>
+    <string>Acircumflex</string>
+    <string>Ecircumflex</string>
+    <string>Edieresis</string>
+    <string>Egrave</string>
+    <string>Icircumflex</string>
+    <string>Idieresis</string>
+    <string>Ucircumflex</string>
+    <string>Ugrave</string>
+    <string>E_S</string>
+    <string>A_E</string>
+    <string>A_O</string>
+    <string>C_H</string>
+    <string>C_Q</string>
+    <string>F_V</string>
+    <string>L_E</string>
+    <string>L_U</string>
+    <string>N_N</string>
+    <string>R_S</string>
+    <string>U_L</string>
+    <string>X_C</string>
+    <string>X_S</string>
+  </array>
+</dict>
+</plist>

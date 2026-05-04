@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron_R_E" format="2">
+  <advance width="1498"/>
+  <unicode hex="F4350"/>
+  <outline>
+    <component base="Emacron"/>
+    <component base="E" xOffset="904"/>
+    <contour>
+      <point x="479.792" y="27.0761" type="curve" smooth="yes"/>
+      <point x="478.85" y="54.7119"/>
+      <point x="489.215" y="78.478"/>
+      <point x="503.033" y="80.3634" type="curve" smooth="yes"/>
+      <point x="514.571" y="81.9377"/>
+      <point x="524.556" y="67.5742"/>
+      <point x="527.201" y="52.4009" type="curve"/>
+      <point x="527.873" y="51.8787"/>
+      <point x="531.354" y="49.916"/>
+      <point x="536.24" y="49.916" type="curve" smooth="yes"/>
+      <point x="542.068" y="49.916"/>
+      <point x="545.256" y="52.5286"/>
+      <point x="545.824" y="53.216" type="curve"/>
+      <point x="543.991" y="11.5568" type="line"/>
+      <point x="542.042" y="16.3533"/>
+      <point x="538.392" y="36.9112"/>
+      <point x="538.392" y="43.0921" type="curve" smooth="yes"/>
+      <point x="538.392" y="688.676" type="line" smooth="yes"/>
+      <point x="538.392" y="716.376"/>
+      <point x="549.542" y="738.676"/>
+      <point x="563.392" y="738.676" type="curve" smooth="yes"/>
+      <point x="577.242" y="738.676"/>
+      <point x="588.392" y="716.376"/>
+      <point x="588.392" y="688.676" type="curve" smooth="yes"/>
+      <point x="588.392" y="54.4158" type="line"/>
+      <point x="597.814" y="17.5058"/>
+      <point x="577.201" y="-50.0839"/>
+      <point x="536.24" y="-50.0839" type="curve" smooth="yes"/>
+      <point x="512.815" y="-50.0839"/>
+      <point x="481.773" y="-30.9797"/>
+    </contour>
+    <contour>
+      <point x="486.823" y="449.585" type="curve" smooth="yes"/>
+      <point x="448.962" y="644.933"/>
+      <point x="585.912" y="779.848"/>
+      <point x="738.385" y="772.586" type="curve" smooth="yes"/>
+      <point x="807.858" y="769.277"/>
+      <point x="880.347" y="735.316"/>
+      <point x="929.442" y="651.699" type="curve" smooth="yes"/>
+      <point x="955.648" y="607.067"/>
+      <point x="971.002" y="556.076"/>
+      <point x="970.604" y="498.828" type="curve" smooth="yes"/>
+      <point x="969.541" y="346.146"/>
+      <point x="854.177" y="242.402"/>
+      <point x="734.524" y="233.677" type="curve" smooth="yes"/>
+      <point x="674.037" y="229.267"/>
+      <point x="609.224" y="248.681"/>
+      <point x="552.531" y="303.373" type="curve" smooth="yes"/>
+      <point x="527.702" y="327.325"/>
+      <point x="547.185" y="415.407"/>
+      <point x="572.748" y="394.774" type="curve" smooth="yes"/>
+      <point x="949.74" y="90.4865" type="line" smooth="yes"/>
+      <point x="962.584" y="80.1199"/>
+      <point x="968.751" y="51.0947"/>
+      <point x="963.567" y="25.4077" type="curve" smooth="yes"/>
+      <point x="958.384" y="-0.279331"/>
+      <point x="943.871" y="-12.6131"/>
+      <point x="931.028" y="-2.2465" type="curve" smooth="yes"/>
+      <point x="554.036" y="302.041" type="line"/>
+      <point x="574.253" y="393.443" type="line"/>
+      <point x="621.99" y="347.391"/>
+      <point x="678.328" y="329.646"/>
+      <point x="732.702" y="333.611" type="curve" smooth="yes"/>
+      <point x="837.501" y="341.253"/>
+      <point x="920.112" y="428.814"/>
+      <point x="920.608" y="500.219" type="curve" smooth="yes"/>
+      <point x="920.739" y="519.012"/>
+      <point x="915.911" y="543.397"/>
+      <point x="897.024" y="575.565" type="curve" smooth="yes"/>
+      <point x="860.429" y="637.891"/>
+      <point x="801.382" y="669.557"/>
+      <point x="737.195" y="672.614" type="curve" smooth="yes"/>
+      <point x="626.654" y="677.879"/>
+      <point x="512.936" y="591.535"/>
+      <point x="533.443" y="485.727" type="curve" smooth="yes"/>
+      <point x="538.449" y="459.9"/>
+      <point x="532.082" y="431.047"/>
+      <point x="519.168" y="421.036" type="curve" smooth="yes"/>
+      <point x="506.255" y="411.024"/>
+      <point x="491.829" y="423.757"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>R</string>
+  <key>com.fontlab.recipe</key>
+  <string>Emacron_R_E</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

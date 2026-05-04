@@ -1,0 +1,23 @@
+---
+unified font repository version: "0.3"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family: Banana
+  name: Banana
+  tags:
+  - sans-serif
+  - fantasy
+  - grotesque
+  - incomplete
+  - decorative
+  - SingleLine
+  - strokefont
+  - inclusive
+
+  tools:
+  - Inkscape
+  - Fontforge
+  - FontLab
+  - Metapost
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...

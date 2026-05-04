@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="522"/>
+  <unicode hex="002A"/>
+  <outline>
+    <component base="hyphen" xScale="0" xyScale="0.9397" yxScale="-1" yScale="0" xOffset="530.869" yOffset="472.081"/>
+    <component base="hyphen" xScale="-0.8937" xyScale="0.2904" yxScale="-0.309" yScale="-0.9511" xOffset="406.863" yOffset="774.319"/>
+    <component base="hyphen" xScale="-0.5524" xyScale="-0.7602" yxScale="0.8091" yScale="-0.5878" xOffset="81.4334" yOffset="749.777"/>
+    <component base="hyphen" xScale="0.5523" xyScale="-0.7603" yxScale="0.8091" yScale="0.5879" xOffset="4.10993" yOffset="432.358"/>
+    <component base="hyphen" xScale="0.8938" xyScale="0.2903" yxScale="-0.3091" yScale="0.9512" xOffset="282.11" yOffset="260.722"/>
+  </outline>
+</glyph>

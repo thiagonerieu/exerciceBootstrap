@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l_l_e" format="2">
+  <advance width="682"/>
+  <unicode hex="F3330"/>
+  <outline>
+    <component base="l"/>
+    <component base="e" xOffset="194"/>
+    <contour>
+      <point x="158.358" y="646.143" type="curve" smooth="yes"/>
+      <point x="152.111" y="661.76"/>
+      <point x="155.534" y="678.216"/>
+      <point x="165.168" y="689.756" type="curve" smooth="yes"/>
+      <point x="172.84" y="698.946"/>
+      <point x="184.428" y="705"/>
+      <point x="198" y="705" type="curve" smooth="yes"/>
+      <point x="212.009" y="705"/>
+      <point x="224.196" y="698.532"/>
+      <point x="232.015" y="688.719" type="curve" smooth="yes"/>
+      <point x="241.117" y="677.294"/>
+      <point x="244.275" y="661.335"/>
+      <point x="238" y="647.073" type="curve"/>
+      <point x="238" y="249" type="line" smooth="yes"/>
+      <point x="238" y="246.23"/>
+      <point x="235.77" y="244"/>
+      <point x="233" y="244" type="curve" smooth="yes"/>
+      <point x="230.23" y="244"/>
+      <point x="228" y="246.23"/>
+      <point x="228" y="249" type="curve" smooth="yes"/>
+      <point x="228" y="649.089" type="line"/>
+      <point x="229.675" y="652.611"/>
+      <point x="236.11" y="667.531"/>
+      <point x="224.194" y="682.487" type="curve" smooth="yes"/>
+      <point x="218.21" y="689.998"/>
+      <point x="208.87" y="695"/>
+      <point x="198" y="695" type="curve" smooth="yes"/>
+      <point x="187.551" y="695"/>
+      <point x="178.714" y="690.378"/>
+      <point x="172.845" y="683.348" type="curve" smooth="yes"/>
+      <point x="165.487" y="674.534"/>
+      <point x="162.803" y="661.955"/>
+      <point x="167.642" y="649.857" type="curve" smooth="yes"/>
+      <point x="168.671" y="647.285"/>
+      <point x="167.429" y="644.386"/>
+      <point x="164.857" y="643.358" type="curve" smooth="yes"/>
+      <point x="162.285" y="642.329"/>
+      <point x="159.386" y="643.571"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

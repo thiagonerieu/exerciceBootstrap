@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave_T_E" format="2">
+  <advance width="1680"/>
+  <outline>
+    <component base="E_T" yOffset="0.1395"/>
+    <component base="macron" xOffset="154.341" yOffset="200"/>
+    <contour>
+      <point x="1611.3" y="714.53" type="move"/>
+      <point x="1584.31" y="601.399"/>
+      <point x="1448.35" y="555.731"/>
+      <point x="1360.13" y="630.46" type="curve" smooth="yes"/>
+      <point x="1322.76" y="661.597"/>
+      <point x="1297.85" y="714.53"/>
+      <point x="1248.03" y="714.53" type="curve" smooth="yes"/>
+      <point x="1187.83" y="714.53"/>
+      <point x="1160.85" y="643.953"/>
+      <point x="1165" y="575.451" type="curve" smooth="yes"/>
+      <point x="1173.3" y="409.387"/>
+      <point x="1259.45" y="249.551"/>
+      <point x="1220.01" y="87.6384" type="curve" smooth="yes"/>
+      <point x="1212.74" y="54.4256"/>
+      <point x="1196.14" y="22.2507"/>
+      <point x="1165" y="17.0612" type="curve" smooth="yes"/>
+      <point x="1138.01" y="12.9096"/>
+      <point x="1112.07" y="31.5918"/>
+      <point x="1108.95" y="59.6151" type="curve" smooth="yes"/>
+      <point x="1094.42" y="172.746"/>
+      <point x="1243.88" y="117.737"/>
+      <point x="1381.92" y="25.3644" type="curve" smooth="yes"/>
+      <point x="1472.22" y="-34.8338"/>
+      <point x="1601.96" y="6.68223"/>
+      <point x="1638.28" y="109.434" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1153.58" y="376.175" type="move"/>
+      <point x="1522.04" y="376.175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>com.fontlab.recipe</key>
+  <string>Egrave_T_E</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

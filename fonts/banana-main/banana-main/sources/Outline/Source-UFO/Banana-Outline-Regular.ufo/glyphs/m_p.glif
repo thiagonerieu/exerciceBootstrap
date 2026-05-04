@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m_p" format="2">
+  <advance width="1275"/>
+  <unicode hex="F3510"/>
+  <outline>
+    <contour>
+      <point x="860.083" y="231.418" type="curve" smooth="yes"/>
+      <point x="843.157" y="352.978"/>
+      <point x="929.087" y="474.427"/>
+      <point x="1051.94" y="464.045" type="curve" smooth="yes"/>
+      <point x="1164.74" y="454.486"/>
+      <point x="1213.04" y="338.094"/>
+      <point x="1211.03" y="252.341" type="curve"/>
+      <point x="1211.01" y="251.638" type="line"/>
+      <point x="1209.65" y="168.754"/>
+      <point x="1161.56" y="60.4869"/>
+      <point x="1051.9" y="50.952" type="curve" smooth="yes"/>
+      <point x="943.106" y="41.4082"/>
+      <point x="872.514" y="142.211"/>
+    </contour>
+    <contour>
+      <point x="811.918" y="204.577" type="curve" smooth="yes"/>
+      <point x="833.486" y="49.7895"/>
+      <point x="934.894" y="-59.4082"/>
+      <point x="1054.09" y="-48.9528" type="curve" smooth="yes"/>
+      <point x="1174.44" y="-38.4869"/>
+      <point x="1258.35" y="87.2457"/>
+      <point x="1260.99" y="248.362" type="curve"/>
+      <point x="1260.97" y="247.659" type="line"/>
+      <point x="1264.96" y="417.907"/>
+      <point x="1177.26" y="553.514"/>
+      <point x="1054.06" y="563.955" type="curve" smooth="yes"/>
+      <point x="891.561" y="577.687"/>
+      <point x="785.359" y="395.316"/>
+    </contour>
+    <contour>
+      <point x="65" y="2" type="curve" smooth="yes"/>
+      <point x="65" y="-25.7"/>
+      <point x="76.15" y="-48"/>
+      <point x="90" y="-48" type="curve" smooth="yes"/>
+      <point x="103.85" y="-48"/>
+      <point x="115" y="-25.7"/>
+      <point x="115" y="2" type="curve" smooth="yes"/>
+      <point x="115" y="130.335"/>
+      <point x="137.111" y="259.208"/>
+      <point x="206.391" y="368.599" type="curve" smooth="yes"/>
+      <point x="235.356" y="413.856"/>
+      <point x="274.484" y="454.589"/>
+      <point x="327.016" y="459.041" type="curve" smooth="yes"/>
+      <point x="411.004" y="465.586"/>
+      <point x="442.328" y="444.27"/>
+      <point x="436" y="378.267" type="curve"/>
+      <point x="436" y="2" type="line" smooth="yes"/>
+      <point x="436" y="-25.7"/>
+      <point x="447.15" y="-48"/>
+      <point x="461" y="-48" type="curve" smooth="yes"/>
+      <point x="474.85" y="-48"/>
+      <point x="486" y="-25.7"/>
+      <point x="486" y="2" type="curve" smooth="yes"/>
+      <point x="486" y="371.116" type="line"/>
+      <point x="495.808" y="496.99"/>
+      <point x="409.978" y="565.582"/>
+      <point x="324.984" y="558.959" type="curve" smooth="yes"/>
+      <point x="259.109" y="553.376"/>
+      <point x="211.298" y="503.164"/>
+      <point x="175.559" y="447.323" type="curve" smooth="yes"/>
+      <point x="92.7713" y="316.605"/>
+      <point x="65" y="157.401"/>
+    </contour>
+    <contour>
+      <point x="0.0526" y="434.057" type="curve" smooth="yes"/>
+      <point x="6.68467" y="409.74"/>
+      <point x="21.8124" y="400.841"/>
+      <point x="33.9713" y="414.105" type="curve" smooth="yes"/>
+      <point x="41.1831" y="421.973"/>
+      <point x="45.5546" y="435.705"/>
+      <point x="46.6893" y="449.929" type="curve"/>
+      <point x="48.7204" y="451.003"/>
+      <point x="52.0729" y="452"/>
+      <point x="56" y="452" type="curve" smooth="yes"/>
+      <point x="60.4392" y="452"/>
+      <point x="63.7151" y="450.691"/>
+      <point x="65" y="450.026" type="curve"/>
+      <point x="65" y="2" type="line" smooth="yes"/>
+      <point x="65" y="-25.7"/>
+      <point x="76.15" y="-48"/>
+      <point x="90" y="-48" type="curve" smooth="yes"/>
+      <point x="103.85" y="-48"/>
+      <point x="115" y="-25.7"/>
+      <point x="115" y="2" type="curve" smooth="yes"/>
+      <point x="115" y="450.491" type="line"/>
+      <point x="120.466" y="496.559"/>
+      <point x="103.818" y="524.456"/>
+      <point x="91.2089" y="536.917" type="curve" smooth="yes"/>
+      <point x="81.1463" y="546.862"/>
+      <point x="68.8949" y="552"/>
+      <point x="56" y="552" type="curve" smooth="yes"/>
+      <point x="41.7131" y="552"/>
+      <point x="25.4974" y="545.407"/>
+      <point x="13.2583" y="528.51" type="curve" smooth="yes"/>
+      <point x="-1.53271" y="508.091"/>
+      <point x="-9.58626" y="469.4"/>
+    </contour>
+    <contour>
+      <point x="436" y="2" type="curve" smooth="yes"/>
+      <point x="436" y="-25.7"/>
+      <point x="447.15" y="-48"/>
+      <point x="461" y="-48" type="curve" smooth="yes"/>
+      <point x="474.85" y="-48"/>
+      <point x="486" y="-25.7"/>
+      <point x="486" y="2" type="curve" smooth="yes"/>
+      <point x="486" y="130.239"/>
+      <point x="508.069" y="259.005"/>
+      <point x="578.391" y="368.599" type="curve" smooth="yes"/>
+      <point x="607.356" y="413.856"/>
+      <point x="646.484" y="454.589"/>
+      <point x="699.016" y="459.041" type="curve" smooth="yes"/>
+      <point x="783.004" y="465.586"/>
+      <point x="814.328" y="444.27"/>
+      <point x="808" y="378.267" type="curve"/>
+      <point x="808" y="-188" type="line" smooth="yes"/>
+      <point x="808" y="-215.7"/>
+      <point x="819.15" y="-238"/>
+      <point x="833" y="-238" type="curve" smooth="yes"/>
+      <point x="846.85" y="-238"/>
+      <point x="858" y="-215.7"/>
+      <point x="858" y="-188" type="curve" smooth="yes"/>
+      <point x="858" y="371.116" type="line"/>
+      <point x="867.808" y="496.99"/>
+      <point x="781.978" y="565.582"/>
+      <point x="696.984" y="558.959" type="curve" smooth="yes"/>
+      <point x="631.313" y="553.393"/>
+      <point x="582.315" y="501.63"/>
+      <point x="547.621" y="447.421" type="curve" smooth="yes"/>
+      <point x="463.935" y="317"/>
+      <point x="436" y="157.76"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>m</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>p</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>
