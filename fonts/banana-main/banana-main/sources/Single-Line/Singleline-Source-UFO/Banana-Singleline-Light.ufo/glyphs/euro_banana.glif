@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="euro_banana" format="2">
-  <advance width="544"/>
-  <unicode hex="FA200"/>
-  <outline>
-    <component base="equal" xOffset="70" yOffset="-50"/>
-    <component base="bullet"/>
-  </outline>
-</glyph>
