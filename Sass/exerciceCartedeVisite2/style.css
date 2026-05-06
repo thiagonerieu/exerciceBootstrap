@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+.image-container {
+  height: 200px;
+}
+
 .card-divider {
   width: 2px;
   height: 80%;
@@ -12,7 +16,7 @@ body {
 .card {
   width: 850px;
   height: 550px;
-  color: #333;
+  color: #004A80;
   background-color: #f0f0f0;
   display: flex;
   flex-direction: row;
